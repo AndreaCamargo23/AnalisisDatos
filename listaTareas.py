@@ -1,4 +1,4 @@
-tareas=['lavar', 'hacer aseo', 'barrer', 'trapear']
+tareas=["lavar", "hacer aseo", "barrer", "trapear"]
 
 def create(tarea):
     tareas.append(tarea)
