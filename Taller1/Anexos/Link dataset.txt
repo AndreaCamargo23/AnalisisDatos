@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/residentmario/ridge-regression-with-video-game-sales-prediction/input
